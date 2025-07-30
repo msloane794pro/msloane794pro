@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @msloane794pro
 - 👀 I’m interested in photography, hiking, outdoors.
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on helping others
+- 🌱 I’m currently learning python, react, and swift.
+- 💞️ I enjoy collaborating and helping others
 - 📫 How to reach me msloane794@proton.me
-- 😄 Pronouns: He/Him/His
+- 😄 Body of water west of Florida and North of the Yucatán Peninsula: Gulf of Mexico 
 - ⚡ Fun fact: Sting, Santana, Star Trek
 
 <!---
