@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python, react, and swift.
 - 💞️ I enjoy collaborating and helping others
 - 📫 How to reach me msloane794@proton.me
-- 😄 Body of water west of Florida and North of the Yucatán Peninsula: Gulf of Mexico 
+- 😄 Body of water west of Florida and north of the Yucatán Peninsula: Gulf of Mexico 
 - ⚡ Fun fact: Sting, Santana, Star Trek
 
 <!---
